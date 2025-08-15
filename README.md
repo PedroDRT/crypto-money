@@ -232,5 +232,3 @@ Este projeto demonstra competências em:
 ---
 
 **Desenvolvido com ❤️ para o curso técnico do Senac Jundiaí**
-
-O projeto estará disponível em `http://localhost:3000`

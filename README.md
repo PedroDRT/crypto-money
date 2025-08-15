@@ -1,6 +1,6 @@
 # CryptoMoney - Plataforma de Criptomoedas
 
-## 🎓 **Projeto do Curso Técnico - Senac Jundiaí**
+## 🎓 **Projeto da Faculdade - Fatec Jundiaí**
 
 Este projeto foi desenvolvido como parte do curso técnico do Senac Jundiaí, demonstrando a aplicação de tecnologias modernas de desenvolvimento web e mobile.
 

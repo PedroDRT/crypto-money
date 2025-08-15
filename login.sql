@@ -42,11 +42,11 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`usuario_id`, `usuario`, `senha`, `nome`, `email`, `telefone`, `data_cadastro`) VALUES
-(1, 'pedro', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'pedromarchiori007@gmail.com', '(11) 94214-8319', '2021-10-06 17:23:43'),
-(2, 'pedrodutra', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'pedromarchiori007@gmail.com', '(11) 94214-8319', '2021-10-06 17:26:22'),
-(3, 'pedrodutra69', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'pedromarchiori007@gmail.com', '(11) 94214-8319', '2021-10-06 17:29:02'),
-(4, 'ana123', '314a7457de4445688cd9cedc0c43ed64', 'AnaLucia', 'analucia@hotmail.com', '(11) 11111-1111', '2021-10-06 17:35:36'),
-(5, 'pedrodutra77', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'pedromarchiori007@gmail.com', '(11) 94214-8319', '2021-10-06 17:39:26');
+(1, 'pedro', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'teste@gmail.com', '(11) 11111-1111', '2021-10-06 17:23:43'),
+(2, 'pedrodutra', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'teste@gmail.com', '(11) 11111-1111', '2021-10-06 17:26:22'),
+(3, 'pedrodutra69', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'teste@gmail.com', '(11) 11111-1111', '2021-10-06 17:29:02'),
+(4, 'ana123', '314a7457de4445688cd9cedc0c43ed64', 'AnaLucia', 'teste@gmail.com', '(11) 11111-1111', '2021-10-06 17:35:36'),
+(5, 'pedrodutra77', 'fc0f9b76b926b69099d610d919f07ae4', 'Pedro Marchiori Dutra', 'teste@gmail.com', '(11) 11111-1111', '2021-10-06 17:39:26');
 
 --
 -- Índices para tabelas despejadas
